@@ -1,0 +1,9 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /bookstore
+spring:
+  profiles:
+    active: dev
+book:
+  name: 武林外传

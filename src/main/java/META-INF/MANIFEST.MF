@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-starter-tomcat-2.0.4.RELEASE.jar spring-core-5
+ .0.8.RELEASE.jar classmate-1.3.4.jar log4j-to-slf4j-2.10.0.jar jackso
+ n-datatype-jsr310-2.9.6.jar tomcat-embed-core-8.5.32.jar tomcat-embed
+ -el-8.5.32.jar hibernate-validator-6.0.11.Final.jar jackson-module-pa
+ rameter-names-2.9.6.jar spring-context-5.0.8.RELEASE.jar spring-aop-5
+ .0.8.RELEASE.jar spring-boot-starter-2.0.4.RELEASE.jar jackson-core-2
+ .9.6.jar jackson-databind-2.9.6.jar spring-webmvc-5.0.8.RELEASE.jar s
+ pring-expression-5.0.8.RELEASE.jar jackson-annotations-2.9.0.jar logb
+ ack-classic-1.2.3.jar validation-api-2.0.1.Final.jar spring-jcl-5.0.8
+ .RELEASE.jar jboss-logging-3.3.2.Final.jar spring-boot-2.0.4.RELEASE.
+ jar javax.annotation-api-1.3.2.jar spring-boot-starter-logging-2.0.4.
+ RELEASE.jar snakeyaml-1.19.jar spring-web-5.0.8.RELEASE.jar log4j-api
+ -2.10.0.jar tomcat-embed-websocket-8.5.32.jar jul-to-slf4j-1.7.25.jar
+  jackson-datatype-jdk8-2.9.6.jar slf4j-api-1.7.25.jar spring-beans-5.
+ 0.8.RELEASE.jar spring-boot-autoconfigure-2.0.4.RELEASE.jar spring-bo
+ ot-starter-web-2.0.4.RELEASE.jar logback-core-1.2.3.jar spring-boot-s
+ tarter-json-2.0.4.RELEASE.jar
+Main-Class: com.ylz.springboot.Springboot01Application
+
